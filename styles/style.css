@@ -1,0 +1,63 @@
+html {
+  font-size: 20px;
+  font-family: 'VT323', monospace;
+  background-color: #4c566a;
+  background-image: url("../images/kittyboard1.png");
+  background-position: center;
+  image-resolution: from-image;
+  background-repeat:  no-repeat;
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: table;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1 {
+  margin: 0;
+  font-size: 60px;
+
+  color: #d8dee9;
+
+}
+
+p, li {
+  color: #d8dee9;
+  font-size: 30px;
+  line-height: 2;
+  letter-spacing: 1px;
+
+  margin: 0 auto;
+
+}
+
+a:visited { text-decoration: none; color:#d8dee9; }
+a:hover { text-decoration: none; color:#d8dee9; }
+a:focus { text-decoration: none; color:#d8dee9; }
+a:hover, a:active { text-decoration: none; color:#d8dee9 }
+a{ text-decoration: none; color: black; }
+
+body {
+
+  margin: 0 auto;
+  color: #d8dee9;
+  background-repeat: no-repeat;
+  padding: inherit;
+  border: 5px;
+  border-color: #2e3440;
+  text-shadow: 0px 3px 5px #2e3440;
+  text-align: center;
+      display: table-cell;
+    vertical-align: middle;
+
+}
+
+ul {
+
+  text-align: left;
+  list-style-position: inside;
+
+}
